@@ -1,10 +1,10 @@
 [
     {
         "merged": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+        "source": "C:\\Users\\Ihar_Amelyaniuk\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\d54c151daf79c4c7657ba842b2f3978a\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     },
     {
         "merged": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+        "source": "C:\\Users\\Ihar_Amelyaniuk\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\d54c151daf79c4c7657ba842b2f3978a\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     }
 ]

@@ -1,26 +1,26 @@
 [
     {
         "merged": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_template_icon_group.xml"
+        "source": "C:\\Users\\Ihar_Amelyaniuk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a890b7f15f929f6ccc8d5fb2dd85da79\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
         "merged": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_template_custom_big.xml"
+        "source": "C:\\Users\\Ihar_Amelyaniuk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a890b7f15f929f6ccc8d5fb2dd85da79\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
         "merged": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\bottom_navigation_small_item.xml",
-        "source": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\exploded-aar\\com.aurelhubert\\ahbottomnavigation\\2.0.6\\res\\layout-v21\\bottom_navigation_small_item.xml"
+        "source": "C:\\Users\\Ihar_Amelyaniuk\\.gradle\\caches\\transforms-1\\files-1.1\\ahbottomnavigation-2.0.6.aar\\92a21ad2a4c772f2dc05398ae16d320a\\res\\layout-v21\\bottom_navigation_small_item.xml"
     },
     {
         "merged": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\bottom_navigation_item.xml",
-        "source": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\exploded-aar\\com.aurelhubert\\ahbottomnavigation\\2.0.6\\res\\layout-v21\\bottom_navigation_item.xml"
+        "source": "C:\\Users\\Ihar_Amelyaniuk\\.gradle\\caches\\transforms-1\\files-1.1\\ahbottomnavigation-2.0.6.aar\\92a21ad2a4c772f2dc05398ae16d320a\\res\\layout-v21\\bottom_navigation_item.xml"
     },
     {
         "merged": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
-        "source": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_action.xml"
+        "source": "C:\\Users\\Ihar_Amelyaniuk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a890b7f15f929f6ccc8d5fb2dd85da79\\res\\layout-v21\\notification_action.xml"
     },
     {
         "merged": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_action_tombstone.xml"
+        "source": "C:\\Users\\Ihar_Amelyaniuk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a890b7f15f929f6ccc8d5fb2dd85da79\\res\\layout-v21\\notification_action_tombstone.xml"
     }
 ]

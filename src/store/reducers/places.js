@@ -12,10 +12,11 @@ const reducer = (state = initialState, action) => {
         ...state,
         places: state.places.concat({
           key: Math.random(),
-          name: action.payload,
+          name: action.payload.placeName,
           image: {
             uri: 'http://kiezinberlin.com/wp-content/uploads/2017/03/berlin-not-germany-4.png'
-          }
+          },
+          location: action.payload.location
         })
       }
     }

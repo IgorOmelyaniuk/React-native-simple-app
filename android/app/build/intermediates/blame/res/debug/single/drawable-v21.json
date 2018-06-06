@@ -1,38 +1,38 @@
 [
     {
         "merged": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
-        "source": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable-v21\\avd_show_password.xml"
+        "source": "C:\\Users\\Ihar_Amelyaniuk\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\d54c151daf79c4c7657ba842b2f3978a\\res\\drawable-v21\\avd_show_password.xml"
     },
     {
         "merged": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
-        "source": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-v21\\notification_action_background.xml"
+        "source": "C:\\Users\\Ihar_Amelyaniuk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a890b7f15f929f6ccc8d5fb2dd85da79\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
         "merged": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\item_background.xml",
-        "source": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\exploded-aar\\com.aurelhubert\\ahbottomnavigation\\2.0.6\\res\\drawable-v21\\item_background.xml"
+        "source": "C:\\Users\\Ihar_Amelyaniuk\\.gradle\\caches\\transforms-1\\files-1.1\\ahbottomnavigation-2.0.6.aar\\92a21ad2a4c772f2dc05398ae16d320a\\res\\drawable-v21\\item_background.xml"
     },
     {
         "merged": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-v21\\abc_edit_text_material.xml"
+        "source": "C:\\Users\\Ihar_Amelyaniuk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a890b7f15f929f6ccc8d5fb2dd85da79\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
         "merged": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
-        "source": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable-v21\\avd_hide_password.xml"
+        "source": "C:\\Users\\Ihar_Amelyaniuk\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\d54c151daf79c4c7657ba842b2f3978a\\res\\drawable-v21\\avd_hide_password.xml"
     },
     {
         "merged": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
-        "source": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable-v21\\design_password_eye.xml"
+        "source": "C:\\Users\\Ihar_Amelyaniuk\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\d54c151daf79c4c7657ba842b2f3978a\\res\\drawable-v21\\design_password_eye.xml"
     },
     {
         "merged": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
+        "source": "C:\\Users\\Ihar_Amelyaniuk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a890b7f15f929f6ccc8d5fb2dd85da79\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
         "merged": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+        "source": "C:\\Users\\Ihar_Amelyaniuk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a890b7f15f929f6ccc8d5fb2dd85da79\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
         "merged": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
-        "source": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+        "source": "C:\\Users\\Ihar_Amelyaniuk\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.3.1.aar\\d54c151daf79c4c7657ba842b2f3978a\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
     }
 ]
