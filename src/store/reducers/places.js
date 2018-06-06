@@ -14,7 +14,7 @@ const reducer = (state = initialState, action) => {
           key: Math.random(),
           name: action.payload.placeName,
           image: {
-            uri: 'http://kiezinberlin.com/wp-content/uploads/2017/03/berlin-not-germany-4.png'
+            uri: action.payload.image.uri
           },
           location: action.payload.location
         })

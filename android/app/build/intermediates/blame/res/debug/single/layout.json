@@ -40,6 +40,10 @@
         "source": "C:\\Users\\Ihar_Amelyaniuk\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.55.4.aar\\0c9b5f61357d44bfa81deb17052e9541\\res\\layout\\dev_loading_view.xml"
     },
     {
+        "merged": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\node_modules\\react-native-image-picker\\android\\build\\intermediates\\packaged_res\\debug\\layout\\list_item.xml"
+    },
+    {
         "merged": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
         "source": "C:\\Users\\Ihar_Amelyaniuk\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a890b7f15f929f6ccc8d5fb2dd85da79\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },

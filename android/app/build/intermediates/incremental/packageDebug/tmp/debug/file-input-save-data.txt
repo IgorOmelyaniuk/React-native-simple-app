@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Jun 06 10:03:33 MSK 2018
+#Wed Jun 06 11:25:53 MSK 2018
 17.baseType=DIRECTORY
 4.path=classes.dex
 25.base=C\:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0

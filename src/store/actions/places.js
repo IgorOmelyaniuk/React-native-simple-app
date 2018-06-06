@@ -1,6 +1,7 @@
 import { ADD_PLACE, DELETE_PLACE } from './actionTypes';
 
 export const addPlace = place => {
+  console.log(place)
   return {
     type: ADD_PLACE,
     payload: place

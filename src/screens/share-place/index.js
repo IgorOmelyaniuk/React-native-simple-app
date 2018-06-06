@@ -26,6 +26,10 @@ class SharePlaceScreen extends Component {
       location: {
         value: null,
         valid: false
+      },
+      image: {
+        value: null,
+        valid: false
       }
     }
   }
@@ -73,10 +77,25 @@ class SharePlaceScreen extends Component {
     })
   }
 
+  imagePickedHandler = image => {
+    this.setState(prevState => {
+      return {
+        controls: {
+          ...prevState.controls,
+          image: {
+            value: image,
+            valid: true
+          }
+        }
+      }
+    })
+  }
+
   placeAddedHandler = () => {
     this.props.addPlace({
       placeName: this.state.controls.placeName.value,
-      location: this.state.controls.location.value
+      location: this.state.controls.location.value,
+      image: this.state.controls.image.value
     });
   }
 
@@ -87,7 +106,7 @@ class SharePlaceScreen extends Component {
           <MainText>
             <HeadingText>Share a Place with us</HeadingText>
           </MainText>
-          <PickImage />
+          <PickImage onImagePick={this.imagePickedHandler} />
           <PickLocation onLocationPick={this.locationPickedHandler} />
           <PlaceInput
             placeData={this.state.controls.placeName}
@@ -97,7 +116,11 @@ class SharePlaceScreen extends Component {
             <Button
               title='Share the Place'
               onPress={this.placeAddedHandler}
-              disabled={!this.state.controls.placeName.valid || !this.state.controls.location.valid}
+              disabled={
+                !this.state.controls.placeName.valid ||
+                !this.state.controls.location.valid ||
+                !this.state.controls.image.valid
+              }
             />
           </View>
         </View>

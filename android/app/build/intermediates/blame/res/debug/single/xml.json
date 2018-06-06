@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
         "source": "C:\\Users\\Ihar_Amelyaniuk\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.55.4.aar\\0c9b5f61357d44bfa81deb17052e9541\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\provider_paths.xml",
+        "source": "C:\\Users\\Ihar_Amelyaniuk\\Projects\\udemy\\node_modules\\react-native-image-picker\\android\\build\\intermediates\\packaged_res\\debug\\xml\\provider_paths.xml"
     }
 ]
