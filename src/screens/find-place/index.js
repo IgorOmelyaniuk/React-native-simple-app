@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { View, Text, TouchableOpacity, StyleSheet, Animated } from 'react-native';
 import { connect } from 'react-redux';
+import { getPlaces } from '../../store/actions'
 
 import PlaceList from '../../components/place-list'
 
@@ -18,6 +19,10 @@ class FindPlaceScreen extends Component {
   constructor(props) {
     super(props);
     this.props.navigator.setOnNavigatorEvent(this.onNavigatorEvent);
+  }
+
+  componentDidMount() {
+    this.props.getPlaces();
   }
 
   onNavigatorEvent = event => {
@@ -99,6 +104,7 @@ class FindPlaceScreen extends Component {
 }
 
 const mapStateToProps = state => {
+  console.log(state)
   return {
     places: state.places.places
   }
@@ -123,4 +129,4 @@ const styles = StyleSheet.create({
   }
 })
 
-export default connect(mapStateToProps, null)(FindPlaceScreen);
+export default connect(mapStateToProps, { getPlaces })(FindPlaceScreen);
